@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>RCL</name>
+            <longname>Raven&apos;Cul&apos;s Lineage</longname>
+            <settype>Custom</settype>
+            <releasedate>2022-08-15</releasedate>
+        </set>
+        <set>
+            <name>RCLT</name>
+            <longname>RCL tokens</longname>
+            <settype>Tokens</settype>
+            <releasedate></releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Cofounder Varduke</name>
+            <text>Improvise. 
+              At the beginning of each end step, if you activated a nonmana ability of a nontoken artifact this turn, create a 1/3 colorless artifact gnome creature token that has, &quot;Sacrifice this permeant: Gain 3 life.&quot;. If a spell or ability would crate one or more tokens on your battlefield crate that many plus one instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Gnome Artificer</type>
+                <maintype>Creature</maintype>
+                <manacost>5UUU</manacost>
+                <cmc>8</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <pt>2/6</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/27/1622090462487902.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Gairros, Abjurer P.H.D</name>
+            <text>As Gairros, Abjurer P.H.D, enters the battlefield, choose a color. Wizards &amp; soldiers you control have hexproof from the chosen color. Whenever two or more wizards or soldiers you control attack, you may search your library for a white enchantment or white instant card, revile it &amp; put it into your hand, then shuffle your library.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>WW</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/17/1642721360242921.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Beldes, Illusionist P.H.D.</name>
+            <text>Wizards you control have hexproof as long as you control an illusion. Illusions you control have menace. Whenever you cast a Blue spell with converted mana cost 3 or more, create a 2/2 blue illusion creature token, it has &quot;When this creature becomes the target of a spell, sacrifice it.&quot;.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>2U</manacost>
+                <cmc>3</cmc>
+                <colors>U</colors>
+                <coloridentity>U</coloridentity>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/1/26/1548596227370142.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cofounder Raddik Balvire</name>
+            <text>Cofounder Raddik Balvire, enters the battlefield with a +1/+1 counter on it, then proliferate X times. Spells &amp; abilities you control have split second. Remove two counters from permanents you control: Tap or untap target permanent. 
+             
+              &quot;This city will be built out of our sweat &amp; held together by our resolve.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>XWWW</manacost>
+                <cmc>3</cmc>
+                <colors>W</colors>
+                <coloridentity>W</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/19/1621400345857736.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kathrine, Evoker P.H.D</name>
+            <text>Wizards you control have prowess. Whenever you cast a red non-creature spell Kathrine, Evoker P.H.D deals 1 damage to each non-wizard permanent. 
+              {r}{r}, {t}: Target instant or sorcery in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Human Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>1RRR</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/17/1566032263396254.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cofounder Jessar</name>
+            <text>First strike. Whenever you cast a instant or sorcery spell Cofounder Jessar, gets +3/+0 until the end of turn. 
+              Whenever you cast a instant or sorcery spell, flip a coin, if heads that spell gains rebound. 
+             
+              &quot;Be bold where you can &amp; lucky where you can&apos;t.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Devil Warlock</type>
+                <maintype>Creature</maintype>
+                <manacost>1RRR</manacost>
+                <cmc>4</cmc>
+                <colors>R</colors>
+                <coloridentity>R</coloridentity>
+                <pt>1/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/27/1622094467667359.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cravin, Necromancer P.H.D</name>
+            <text>Whenever a skeleton or wizard you control is untapped it deals 1 damage to any target.
+              Tap two untapped skeleton or zombie you control: Regenerate target swamp or black creature. 
+              Whenever another non-artifact non-token creature you control dies, create a 1/1 black skeleton creature token.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Skeleton Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>3BB</manacost>
+                <cmc>5</cmc>
+                <colors>B</colors>
+                <coloridentity>R</coloridentity>
+                <pt>4/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/17/1642722178852327.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cofounder Saulleam&apos;Gart</name>
+            <text>Flying, prowess, delve. 
+              {2}: Exile target card from any graveyard, if it was a creature or planeswaker put a +1/+1 counter on target creature, if it was a noncreature nonland, draw a card &amp; loose 1 life, if it was land each opponent looses 2 life &amp; you gain 2 life. This ability can be activated form the graveyard. 
+             
+             &quot;We will rise from the ruins of our mistakes.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Dragon Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>7BBB</manacost>
+                <cmc>10</cmc>
+                <colors>B</colors>
+                <coloridentity>B</coloridentity>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/26/1622089852737030.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dilfa, Blind Seer</name>
+            <text>Prowess, vigilance. 
+              {w/u}{x}, {t}: Target player scrys X.
+             
+              &quot;Fate is a lie, I make my own way with my own will.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>UW</manacost>
+                <cmc>2</cmc>
+                <colors>W</colors>
+                <coloridentity>UW</coloridentity>
+                <pt>1/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/31/1567307204908670.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Balbodd, Transmuter P.H.D</name>
+            <text>Spells that increase creature&apos;s you control power and/or toughness increase it by double that amount instead. 
+             
+               Whenever a wizard you control becomes the target of a spell, draw a card. The power and/or toughness of beasts you control cannot be decreased by spells, abilities and counters. (Changing a creature from a 3/3 to 1/1 is decreasing it.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Cat Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>4GG</manacost>
+                <cmc>6</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/17/1566038679475496.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cofounder Riverist</name>
+            <text>Cofounder Riverist, has indestructible &amp; prowess as long as your team controls a full party. 
+              Whenever a player casts a noncreature spell, you may have Cofounder Riverist, fight target creature or planeswalker you don&apos;t control. (Noncreature planeswalkers have a power of 0 when fighting.) 
+             
+              &quot;From our deeds let the first kingless kingdom be born.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard Warrior</type>
+                <maintype>Creature</maintype>
+                <manacost>2GGG</manacost>
+                <cmc>5</cmc>
+                <colors>G</colors>
+                <coloridentity>G</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/27/1622094917475532.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Kelpie of Darkwater Cove</name>
+            <text>Whenever The Kelpie of Darkwater Cove, becomes blocked, destroy all creatures that are blocking it.
+              Whenever The Kelpie of Darkwater Cove, deals combat damage to a player, that player discards that many cards, and you draw a card for each card that was discarded this way.
+              At the beginning of each player&apos;s end step, that player draws a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Horse Horror</type>
+                <maintype>Creature</maintype>
+                <manacost>2{U/B}{U/B}</manacost>
+                <cmc>4</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/12/14/1576380153590100.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Skylark, The Tested</name>
+            <text>Flying.
+              Players can&apos;t search there libraries unless they pay {2}.
+              If a player searches there library for a card, they may instead search for any card, shuffle their library and put that card on top of it.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Bird Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>UB</manacost>
+                <cmc>2</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <pt>1/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642643890694712.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kurn Foultongue</name>
+            <text>First strike, wither.
+              Sacrifice a creature: You may cast Kurn Foultongue, from your graveyard this turn. (This can be activated from the graveyard or on the battlefield.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Gnoll Warrior</type>
+                <maintype>Creature</maintype>
+                <manacost>3{B/R}{B/R}</manacost>
+                <cmc>5</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <pt>4/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/31/1567297017641517.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sargoss, Born of Death</name>
+            <text>Trample.
+              Whenever Sargoss, or another creature enters a graveyard from anywhere each opponent looses 1 life.
+              Sargoss, Born of Death&apos;s power is equal to the number of creatures in all graveyards &amp; in exile.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Zombie Horror</type>
+                <maintype>Creature</maintype>
+                <manacost>5BR</manacost>
+                <cmc>6</cmc>
+                <colors>BR</colors>
+                <coloridentity>BR</coloridentity>
+                <pt>*/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642657600945744.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Guardian of Respit Grove</name>
+            <text>Lifelink, vigilance.
+              Whenever The Guardian of Respit Grove, deals damage, put that many +1/+1 counters on it.
+              It is said, a smart man will lay down his sword in the guardian&apos;s presents, a smarter man would never be there.— Grand Ma&apos;s Hearth Tails.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Cat Faerie</type>
+                <maintype>Creature</maintype>
+                <manacost>3{G/W}{G/W}</manacost>
+                <cmc>5</cmc>
+                <colors>GW</colors>
+                <coloridentity>GW</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/11/5/1573083183365886.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dorren of the Old Ways</name>
+            <text>Whenever an enchantment enters the battlefield under your control for the first time each turn, create X 1/1 White bird creature tokens with flying, X is the number of enchantments you control. 
+              {2}{g}{w}, {t}, Sacrifice an enchantment: Create a token that is a copy of target enchantment.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Druid</type>
+                <maintype>Creature</maintype>
+                <manacost>1GW</manacost>
+                <cmc>3</cmc>
+                <colors>GW</colors>
+                <coloridentity>GW</coloridentity>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642652745670479.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Venfic, Aspect of Summer</name>
+            <text>Red &amp; green creatures you control have First Strike, Reach &amp; Menace. 
+              Venfic, has Indestructible as long as you control 3 or more other creatures. 
+              Venfic, has Hexproof as long as you control no other creatures.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Faerie Ranger</type>
+                <maintype>Creature</maintype>
+                <manacost>{G/R}{G/R}{G/R}{G/R}</manacost>
+                <cmc>4</cmc>
+                <colors>GR</colors>
+                <coloridentity>GR</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642641824321496.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Lord of Bryte Refuge</name>
+            <text>Flying. 
+              You may play The Lord of Bryte Sanctum, from your graveyard or from exile. 
+              Whenever you cast another spell, if it was not cast from your hand, The Lord of Bryte Sanctum, deals 2 damage to any target.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Pheonix</type>
+                <maintype>Creature</maintype>
+                <manacost>UU{U/R}UU</manacost>
+                <cmc>5</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642702415782684.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kels&apos;Afar, Face of Fear</name>
+            <text>Kels&apos;Afar, Face of Fear cannot be blocked.
+              Protection from non-permanents.
+              Whenever a creature becomes blocked by Kels&apos;Afar, Face of Fear, destroy it.
+              &quot;Boo...&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Horror</type>
+                <maintype>Creature</maintype>
+                <manacost>{W/B}{W/B}{W/B}</manacost>
+                <cmc>3</cmc>
+                <colors>WB</colors>
+                <coloridentity>WB</coloridentity>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/6/10/1560219542069875.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Crypt Keeper Lenvic</name>
+            <text>Vigilance. Whenever a creature leaves a graveyard create a 1/1 white spirit creature token with flying. Whenever a noncreature card leaves a graveyard it&apos;s owner looses 1 life &amp; you gain 1 life.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Zombie Warlock</type>
+                <maintype>Creature</maintype>
+                <manacost>3WB</manacost>
+                <cmc>5</cmc>
+                <colors>WM</colors>
+                <coloridentity>WB</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642698136032643.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Lucky Vin</name>
+            <text>At the start of combat attach up to one target equipment you control to Vin, if you do, put a +1/+1 counter on him &amp; draw a card. 
+              Whenever Vin attacks, it deals damage equal to the number of counters on him to up two other random creatures, planeswalkers or opponents. 
+              He survived The Tower of Bal&apos;Tander, that alone should say something.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Kobold Rebel</type>
+                <maintype>Creature</maintype>
+                <manacost>{R/W}</manacost>
+                <cmc>1</cmc>
+                <colors>RW</colors>
+                <coloridentity>RW</coloridentity>
+                <pt>0/1</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642655451097098.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Thich, Roof Runner</name>
+            <text>First Strike, Trample, Haste. 
+              Whenever Thich, deals damage to a player, look at that player&apos;s hand &amp; exile a nonland card from it. As long as that card remains in exile any player may play that card &amp; uses mana as if it where mana of any color. 
+              Whenever an Opponents play a card, if was not played from their hand, Thich deal it&apos;s power to them.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Cat Rougue</type>
+                <maintype>Creature</maintype>
+                <manacost>1RW</manacost>
+                <cmc>3</cmc>
+                <colors>RW</colors>
+                <coloridentity>RW</coloridentity>
+                <pt>3/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642654105712045.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Ravenous Toby</name>
+            <text>Whenever a creature an opponent controls dies, create a food token. 
+               Sacrifice a food: Regenerate Toby &amp; put a +1/+1 counter on it. 
+              If an ability of a permanent you control would trigger because of a creature attacking, it triggers twice instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Beast Horror</type>
+                <maintype>Creature</maintype>
+                <manacost>3{G/B}{G/B}</manacost>
+                <cmc>5</cmc>
+                <colors>GB</colors>
+                <coloridentity>GB</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642707076847188.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ao Jeel, The Fetid King</name>
+            <text>Whenever 1 or more counters are removed from a player or permanent put that many +1/+1 counters on Ao Jeel. 
+               Whenever Ao Jeel, or another permanent with counters on it leaves the battlefield for the first time each turn, put all those counters on any target permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elder Dragon</type>
+                <maintype>Creature</maintype>
+                <manacost>5GB</manacost>
+                <cmc>7</cmc>
+                <colors>GB</colors>
+                <coloridentity>GB</coloridentity>
+                <pt>7/7</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642706013932022.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Virsteppado, Time Lost</name>
+            <text>+2: Look at the top three cards of your library put one in your hand one on the top and one on the bottom of your library. 
+              -3: Exile target creature, then add its mana cost as mana to your mana pool. 
+              -10: Create a Emblem with &quot;At the end of each opponent&apos;s turn take an extra turn after.&quot;. Virsteppado can be your commander</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Planeswalker - Ben Virsteppado</type>
+                <maintype>Planeswalker</maintype>
+                <manacost>1UBW</manacost>
+                <cmc>4</cmc>
+                <colors>UBW</colors>
+                <coloridentity>UBW</coloridentity>
+                <loyalty>3</loyalty>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/1/29/1548795514405402.png">RCL</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Guru Kai, The Tranquil</name>
+            <text>Convoke. Elemental, Plant &amp; Fungus spells have Convoke &amp; Flash.
+              Whenever a land or another creature enters the battlefield, you may gain 1 life, if you do &amp; control that permanent you draw a card.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Druid</type>
+                <maintype>Creature</maintype>
+                <manacost>3RGW</manacost>
+                <cmc>6</cmc>
+                <colors>WGR</colors>
+                <coloridentity>WGR</coloridentity>
+                <pt>0/8</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642645462808909.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ro, Peacekeeper of the Guild</name>
+            <text>Ro, Peacekeeper of the Guild enters the battlefield with a number of peace counters on it equal to the amount of mana spent to cast it. 
+              Remove a peace counter from Ro: Choose one —
+              • Target creature&apos;s power becomes equal to it&apos;s toughness until the start of your next turn.
+              • Prevent all damage that would be dealt this turn.
+              • Target creature is indestructible until the end of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Cat Knight</type>
+                <maintype>Creature</maintype>
+                <manacost>WGR</manacost>
+                <cmc>3</cmc>
+                <colors>WRG</colors>
+                <coloridentity>WGR</coloridentity>
+                <pt>0/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/9/13/1569084459572550.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ruuk, The Last Old One</name>
+            <text>Flash.
+              When Ruuk, enters the battlefield, exile all spells &amp; abilities. Nonland permanents with mana value less then five cannot attack or block &amp; looses all abilities. 
+              
+             &quot;The end comes...&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Leviathan Horror</type>
+                <maintype>Creature</maintype>
+                <manacost>5WBU</manacost>
+                <cmc>8</cmc>
+                <colors>WBU</colors>
+                <coloridentity>WBU</coloridentity>
+                <pt>6/6</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/6/10/1642721702568467.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pyro Master, Crace</name>
+            <text>Instant &amp; sorcery spells you control have wither. Whenever a spell you control cause an opponent to loose life you may pay {x}, if you do, draw X cards, then choose three cards in your hand &amp; discard the rest.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>1RWB</manacost>
+                <cmc>4</cmc>
+                <colors>RWB</colors>
+                <coloridentity>RWB</coloridentity>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2020/5/1/1588420100319055.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Las &amp; Sal, Betwixt Seers</name>
+            <text>Lifelink, Deathtouch 
+            At the beginning of your end step, reveal the top
+            three cards of your library, Put one in your hand
+            then you lose life equal to it&apos;s mana value, put the
+            other cards in your graveyard &amp; gain life equal to
+            their total mana value.
+            &quot;With his return we will rise, with his victory we will
+            transcend.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>RWB</manacost>
+                <cmc>3</cmc>
+                <colors>RWB</colors>
+                <coloridentity>RWB</coloridentity>
+                <pt>1/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2020/3/15/1642722948081653.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Malga, Cruel Sorceress</name>
+            <text>Lifelink, Deathtouch 
+            At the beginning of your end step, reveal the top 
+            three cards of your library, Put one in your hand
+            then you lose life equal to it&apos;s mana value, put the
+            other cards in your graveyard &amp; gain life equal to
+            their total mana value.
+            &quot;With his return we will rise, with his victory we will
+            transcend.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>RUB</manacost>
+                <cmc>3</cmc>
+                <colors>RUB</colors>
+                <coloridentity>RUB</coloridentity>
+                <pt>1/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/9/21/1569054996540157.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sansil, Betwixt Priestess</name>
+            <text>{w}{b}{g}, {t}, Sacrifice a creature: Target player loose X life &amp; draws X cards, X is the sacrificed creature&apos;s power. Whenever a player looses life, put a -1/-1 counter on up to one target creature. Whenever you gain life put a +1/+1 counter on up to one target creature.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Warlock</type>
+                <maintype>Creature</maintype>
+                <manacost>2WBG</manacost>
+                <cmc>5</cmc>
+                <colors>WBG</colors>
+                <coloridentity>WBG</coloridentity>
+                <pt>2/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642704311557774.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Edgewalker Skris</name>
+            <text>Deathtouch, Lifelink.
+            {1}, {t}: Choose for each color of mana used to activate this ability -
+            •If {w} was spent two different target players each draws two cards.
+            •If {b} was spent Edgewalker Skris, deals 1 damage to target creature.
+            •If {g} was spent move any two counters from any permanents to target permanent.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>1WBG</manacost>
+                <cmc>4</cmc>
+                <colors>WBG</colors>
+                <coloridentity>WBG</coloridentity>
+                <pt>3/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/5/10/1620649330109182.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Orphil, Scale Summoner</name>
+            <text>Shroud.
+            {t}: Tokens you control phase out.
+            Whenever a permanent phases in, create a green &amp; black snake enchantment creature token with deathtouch, it gains haste this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>2BUG</manacost>
+                <cmc>5</cmc>
+                <colors>BUG</colors>
+                <coloridentity>BUG</coloridentity>
+                <pt>3/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642699490971517.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Bar&apos;Des, Champion of Seasons</name>
+            <text>{g}{u}{r}, discard a card: Choose one— 
+            •Target creature you control gets +1/+1 until end of turn. It fights target creature you don&apos;t control.
+            •Counter target spell unless its controller pays {3}.
+            •Creatures with power 3 or less can&apos;t block this turn.
+            &quot;Winter, spring, summer and fall. Four seasons, four joys, four loves.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Faerie Bard</type>
+                <maintype>Creature</maintype>
+                <manacost>BUR</manacost>
+                <cmc>3</cmc>
+                <colors>BUR</colors>
+                <coloridentity>BUR</coloridentity>
+                <pt>4/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/9/21/1576236957653349.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Witch of Woodfall</name>
+            <text>Deathtouch, First Strike, Lifelink.
+            Bargin - {t}: Starting with you each player pays {x}, then each player draws X cards &amp; discards any number of cards, then The Witch of Woodfall,
+            deals damage to each player equal to the number of cards drawn minus the number of cards discarded this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - hag</type>
+                <maintype>Creature</maintype>
+                <manacost>3BRG</manacost>
+                <cmc>6</cmc>
+                <colors>BRG</colors>
+                <coloridentity>BRG</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642701088399802.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dulgen, Supreme Archmage</name>
+            <text>{u}{r}{w}, discard a card: Choose one —
+• Dulgen, Voice of Raven&apos;Cul, deals 4 damage to target opponent or planeswalker.
+• Put target creature on top of its owner&apos;s library.
+• Creatures you control get +1/+1 and gain lifelink until end of turn.
+
+What makes you think my city will follow your edicts? Is it because you where given the title of &quot;King&quot; as your nameday gift?</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>WRU</manacost>
+                <cmc>3</cmc>
+                <colors>WRU</colors>
+                <coloridentity>WRU</coloridentity>
+                <pt>3/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/12/13/1576237179717070.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sal &amp; Las, Brides of Belial</name>
+            <text>At the beginning of each opponent&apos;s upkeep if that player has one or fewer cards in hand, that player looses 4 life, 
+            if that player has seven or more cards in hand that player discards until they have six cards in hand instead. Whenever three or more cards are put into an opponent&apos;s graveyard from anywhere, that player discards a card from their hand. &quot;We wait... for soon he will return.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Hag</type>
+                <maintype>Creature</maintype>
+                <manacost>1BU</manacost>
+                <cmc>3</cmc>
+                <colors>UB</colors>
+                <coloridentity>UB</coloridentity>
+                <pt>1/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2018/7/8/1531034282422869.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vorn, Hound of Shangri La</name>
+            <text>First Strike.
+            At the end of each combat Vorn phases out.
+            At the start of each combat if Vorn is phased out it phases in untapped.
+            It was on that day Vorn met the child apprentice of Lucian &amp; both lives would forever change. -chapter 1, Wizards of War.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Hound Spirit</type>
+                <maintype>Creature</maintype>
+                <manacost>WWU</manacost>
+                <cmc>3</cmc>
+                <colors>WU</colors>
+                <coloridentity>WU</coloridentity>
+                <pt>3/2</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2018/7/8/1531028033502758.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Da&apos;Ki, Autumn&apos;s Savior</name>
+            <text>Flash, Trample, Deathtouch.
+            Other faeries you control get +2/+1.
+            Whenever a spell or ability an opponent controls targets you or a fearie permanent you control, draw two cards, unless it&apos;s owner discards a card or pays {4}.
+            &quot;Good things come to those that lay in wait.&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Fox Faerie</type>
+                <maintype>Creature</maintype>
+                <manacost>2BGU</manacost>
+                <cmc>5</cmc>
+                <colors>BGU</colors>
+                <coloridentity>BGU</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2018/7/7/1531023918244384.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Eureka, Mother of Ideas</name>
+            <text>Hexproof, Indestructible.
+{g/u}, {t}: Each player draws a card.
+Never call a fae queen a queen, they don&apos;t understand the
+concept of rulers &amp;l maybe offended, instead call her mother.
+</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Faerie Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>{U/G}{U/RG}</manacost>
+                <cmc>2</cmc>
+                <colors>UG</colors>
+                <coloridentity>UG</coloridentity>
+                <pt>01</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/6/10/1560397882909791.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cyn, The Loyal</name>
+            <text>Haste, Provoke, Indestructible.
+            Cards you control attached to Cyn, The Loyal are indestructible.
+            &quot;He started down a horde of savages, not once did his resolve waver nor his blade flinch. Wave by wave he slaughtered the brutes &amp; when the battle was won not
+            a single savage would ever stand against him or the
+            lands he called home ever again, not even his brother.&quot;
+            -Leer Everclair to the sun king.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Gnoll Knight</type>
+                <maintype>Creature</maintype>
+                <manacost>2{R/W}{R/W}{R/W}</manacost>
+                <cmc>5</cmc>
+                <colors>RW</colors>
+                <coloridentity>RW</coloridentity>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2018/7/7/1560398382674719.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Gnarth Foul-Tongue</name>
+            <text>Card description and oracle text, including actions, effects, etc..</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Gnoll Shaman</type>
+                <maintype>Creature</maintype>
+                <manacost>1BRG</manacost>
+                <cmc>4</cmc>
+                <colors>BRG</colors>
+                <coloridentity>BRG</coloridentity>
+                <pt>3/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2018/7/7/1560396376127493.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Wabbajack, the Pooka</name>
+            <text>Indestructible.
+            {2}{u}: Untap Wabbajack, the Pooka.
+            Whenever Wabbajack, the Pooka attacks or blocks, Put a +1/+1 counter on it.
+            &quot;Many think Wabbajack a myth, others not even that, but your grandpa knew the truth, rest his soul.&quot;
+            -Grandma&apos;s fireplace stories</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Beast Spirit</type>
+                <maintype>Creature</maintype>
+                <manacost>GUR</manacost>
+                <cmc>3</cmc>
+                <colors>GUR</colors>
+                <coloridentity>GUR</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2018/7/7/1531013480294938.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Polly, The Polymorphologist</name>
+            <text>Protection from blue.
+Polly, The Polymorphologist, may block any
+number of frog creatures.
+{g}{u}{u},{ut}, discard a card: Creatures target player
+owns become 1/1 blue frogs, loose all abilities
+&amp; can&apos;t gain abilities until the end of the turn.
+(Even if they are outside the batlefield.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Frog Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>1GU</manacost>
+                <cmc>3</cmc>
+                <colors>GU</colors>
+                <coloridentity>GU</coloridentity>
+                <pt>0/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/8/31/1567301339407784.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>BoomBoom, Storm&apos;s Wake</name>
+            <text>BoomBoom, Storm&apos;s Wake, costs {1} less for each Creature you don&apos;t control on the battlefield.
+Islandwalk, Trample.
+Whenever BoomBoom, leaves the battlefield it deals damage equal to it&apos;s power to each creature &amp; planeswalker.
+&quot;BoomBoom Pow!&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Bird Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>9{U/R}{U/R}{U/R}</manacost>
+                <cmc>12</cmc>
+                <colors>UR</colors>
+                <coloridentity>UR</coloridentity>
+                <pt>8/8</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/4/14/1642656245443290.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Rangor of the Claw</name>
+            <text>Rangor can&apos;t be countered &amp; whenever you play Rangor, create a 4/4 legendary green bear
+creature token named Honey.
+Rangor &amp; Bears you control have, Haste,
+Trample &amp; Ward - Sacrifice a permanent.
+Rangor &amp; Honey are Indestructible if it is your
+turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Giant Warrior</type>
+                <maintype>Creature</maintype>
+                <manacost>4GGRR</manacost>
+                <cmc>8</cmc>
+                <colors>GR</colors>
+                <coloridentity>GR</coloridentity>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642648793277028.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Marrin Riversist, Facsimile</name>
+            <text>Emblems loose all abilities.
+Whenever you draw one or more cards, choose one —
+• Put a +1/+1 counter on target creature.
+• Remove a counter from target permanent.
+She has all of her memories and made from her flesh,
+then is she really just a copy with no soul?</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elf Wizard Clone</type>
+                <maintype>Creature</maintype>
+                <manacost>GWU</manacost>
+                <cmc>3</cmc>
+                <colors>GWB</colors>
+                <coloridentity>GWB</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/9/20/1573084287249900.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Gale, Soul of Peace</name>
+            <text>Eminence- If a land enters the battlefield tapped
+it enters untapped instead.
+Vigilance, undying.
+Whenever a player cast the first spell in a turn,
+each of that player&apos;s opponents draws two cards.
+Each step makes not a sound, each hoof print moves
+not a flower.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Spirit Elemental</type>
+                <maintype>Creature</maintype>
+                <manacost>2WGU</manacost>
+                <cmc>5</cmc>
+                <colors>WGU</colors>
+                <coloridentity>WGU</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/6/10/1560218268492305.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ro, Peacekeeper of the Guild</name>
+            <text>Ro, Peacekeeper of the Guild enters the
+battlefield with a number of peace counters on it
+equal to the amount of mana spent to cast it.
+Remove a peace counter from Ro: Choose one —
+• Target creature&apos;s power becomes equal to it&apos;s toughness until the start of your next turn.
+• Prevent all damage that would be dealt this turn.
+• Target creature is indestructible until the end
+of turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature</type>
+                <maintype>Creature</maintype>
+                <manacost>RGW</manacost>
+                <cmc>3</cmc>
+                <colors>RGW</colors>
+                <coloridentity>RGW</coloridentity>
+                <pt>0/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/9/13/1569084459572550.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Gar&apos;Nova, Farfire Master</name>
+            <text>Flying, trample.
+If a creature you control fights a creature the
+excess damage is dealt to it&apos;s controller or a planeswalker that player controls of your choice instead.
+{g}{u}{r}: Gar&apos;Nova fights target creature you
+don&apos;t control.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Dragon</type>
+                <maintype>Creature</maintype>
+                <manacost>4GUR</manacost>
+                <cmc>7</cmc>
+                <colors>GUR</colors>
+                <coloridentity>GUR</coloridentity>
+                <pt>7/7</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2021/1/21/1611285106661065.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Garth, The Death Head</name>
+            <text>{2}, Exile two cards from a single graveyard: For
+each of the exiled cards&apos; types do the following—
+•Land or creature: Create a 2/2 black zombie
+creature token.
+•Instant or sorcery: Put a -1/-1 counter on target creature.
+•Enchantment or artifact: Put a +1/+1 counter
+on target creature
+{bull}Planeswalker or tribal: Proliferate.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Gnoll Shaman</type>
+                <maintype>Creature</maintype>
+                <manacost>1BRG</manacost>
+                <cmc>4</cmc>
+                <colors>BRG</colors>
+                <coloridentity>BRG</coloridentity>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/9/21/1660668858598688.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pyro Master, Crace</name>
+            <text>Protection from spells.
+Instant &amp; sorcery spells you control have wither.
+Whenever a spell you control cause an opponent
+to loose life you may pay {x}, if you do, draw X
+cards, then choose three cards in your hand &amp;
+discard the rest..</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature</type>
+                <maintype>Creature</maintype>
+                <manacost>1RWB</manacost>
+                <cmc>4</cmc>
+                <colors>RWB</colors>
+                <coloridentity>RWB</coloridentity>
+                <pt>3/3</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2020/5/1/1588420100319055.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>King Mergo, Deep Sea Seer</name>
+            <text>Whenever two or more creatures attack an
+opponent, defending player discards a card from
+their hand at random, if they can&apos;t, that player
+exiles the top six cards from their library instead.
+At the beginning of each end step, draw a card
+for each opponent that discarded or exiled a card
+from anywhere this turn.
+&quot;I choose Freedom! I choose Belial!&quot;</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Merfolk Horror Lord</type>
+                <maintype>Creature</maintype>
+                <manacost>2GUR</manacost>
+                <cmc>5</cmc>
+                <colors>GUR</colors>
+                <coloridentity>GUR</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2019/2/6/1549460121743021.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Roazim Dellaphonte</name>
+            <text>Flying, Ward - You draw three cards.
+Whenever you draw a card, gain 2 life.
+Whenever an opponent plays their first spell each turn, draw a card unless that player
+pays {2}.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Dragon</type>
+                <maintype>Creature</maintype>
+                <manacost>3{U/W}{U/W}</manacost>
+                <cmc>5</cmc>
+                <colors>UW</colors>
+                <coloridentity>3{U/W}{U/W}</coloridentity>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="Rare" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1660667209386700.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>King Cole, The Barbaric</name>
+            <text>Trample, Lifelink, Haste.
+Other creatures you control get +1/+1 for each of their colors.
+As long as you control 3 or more other warriors Cole, is indestructible.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Warrior Lord</type>
+                <maintype>Creature</maintype>
+                <manacost>BRWG</manacost>
+                <cmc>4</cmc>
+                <colors>BRWG</colors>
+                <coloridentity>BRWG</coloridentity>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642719671321515.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Belial Unchained</name>
+            <text>+1: Goad up to one target creature, it has provoke for as long as it is goaded.
+-2: Each player creates a emblem with "At the beginning of your upkeep discard a card, if you do draw a card. Your max hand size is reduced by one.
+-7: Until the end of the turn, you may play cards from all graveyards, if a card would go to the graveyard from anywhere exile it instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Planeswalker - Belial</type>
+                <maintype>Planeswalker</maintype>
+                <manacost>UBRG</manacost>
+                <cmc>4</cmc>
+                <colors>UBRG</colors>
+                <coloridentity>UBRG</coloridentity>
+                <loyalty>3</loyalty>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642715310860339.png">RCL</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>The Trickster of Gold Peak</name>
+            <text>Flying, first strike.
+Whenever The Trickster of Gold Peak, becomes
+the target of a spell or ability the first time each
+turn you may change the target of that spell or
+ability to another legal target, then copy it.
+(You pick the target(s) for the copy.)
+{u}{r}{w}: Target spell or ability targets The
+Trickster, it becomes a legal target by that spell
+or ability this turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Sphinx Monk</type>
+                <maintype>Creature</maintype>
+                <manacost>1URW</manacost>
+                <cmc>4</cmc>
+                <colors>URW</colors>
+                <coloridentity>URW</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2020/11/4/1604736865394156.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Shaper, The Void Weaver</name>
+            <text>+1: Remove a counter from any number of players, other permeants and exiled cards, then put that many loyalty counters on target planeswalker.
+-3: Manifest a card from your hand or top of your library, it enters with your choice of a Trample, Lifelink, Deathtouch, Flying or Haste counter.
+-10: For the rest of the game cards you control or own have Morph {5}, instant and sorcery cards that are turned face up on the battlefield are cast.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Planeswalker - Shaper</type>
+                <maintype>Planeswalker</maintype>
+                <manacost>5</manacost>
+                <cmc>5</cmc>
+                <colors>X</colors>
+                <coloridentity>X</coloridentity>
+                <loyalty>1</loyalty>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642711081209627.png">RCL</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Limrase, The Void Sent</name>
+            <text>As long as Limrase is your commander, you can include any colorless cards in your library, regardless of it&apos;s color identity.
+            Flying. 
+            If you would loose the game or an opponent would win the game the first time each turn, that player instead dose not, if that player would be reduced to 0 or less life their life total becomes 5 instead.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature- Eldrazi</type>
+                <maintype>Creature</maintype>
+                <manacost>5CC</manacost>
+                <cmc>7</cmc>
+                <colors>X</colors>
+                <coloridentity>X</coloridentity>
+                <pt>5/5</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642723024728292.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Tiamat, The Prismatic</name>
+            <text>Devoid, Protection from mono-color and Colorless, Flying.
+Play with the top card of your library revealed. 
+You may play a card of each card type from the top of your library each turn.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Dragon God</type>
+                <maintype>Creature</maintype>
+                <manacost>RWBUGC</manacost>
+                <cmc>6</cmc>
+                <colors>RWBUGC</colors>
+                <coloridentity>RWBUGC</coloridentity>
+                <pt>6/6</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/14/1642210943197686.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Bahamut, The Platinum</name>
+            <text>Flying, Lifelink, Convoke.
+Bahamut, enters the battlefield with X +1/+1 counters on it.
+{t}, Remove all counters from you and Bahamut: Exile the top card of your library, you may play that card this turn, if it is a dragon card you may play it without paying it&apos;s mana cost, then repeat this process for each counter removed this way.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Dragon God</type>
+                <maintype>Creature</maintype>
+                <manacost>WBRGU</manacost>
+                <cmc>5</cmc>
+                <colors>WBRGU</colors>
+                <coloridentity>WBRGU</coloridentity>
+                <pt>6/6</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2018/11/10/1541873425030754.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Hamell, Feasted Bounty</name>
+            <text>Whenever a player sacrifices one or more nontoken permanents, create a food token. 
+            Whenever you sacrifice a noncreature permanent, create a 1/1 black skeleton creature token.
+"Come now and feast to your heart&apos;s desire, I know I know, I look just so darn delectable, but don&apos;t worry, no one goes to waste here."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Skeleton</type>
+                <maintype>Creature</maintype>
+                <manacost>WRUB</manacost>
+                <cmc>4</cmc>
+                <colors>WRUB</colors>
+                <coloridentity>WRUB</coloridentity>
+                <pt>0/1</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642720538971386.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Baba Danda</name>
+            <text>Tap two creatures you control: Tap or untap target artifact, creature or land. 
+            {g}{w}{u}{b}: Target land becomes a 4/4 elemental creature until the start of your next turn.
+            "Regrets are all I have left at my age."</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Hag</type>
+                <maintype>Creature</maintype>
+                <manacost>GWUB</manacost>
+                <cmc>4</cmc>
+                <colors>GWUB</colors>
+                <coloridentity>GWUB</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642718424074616.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Rayr of Shangri La</name>
+            <text>If a player would tap a permanent for mana it adds an additional mana that permanent could produce.
+            If a player would draw one or more cards, that player draws that many plus one instead.
+            
+            Players cannot tap permanents unless it is for mana abilities or attacking, also spells and abilities cannot prevent players from drawing cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Druid Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>RWGU</manacost>
+                <cmc>4</cmc>
+                <colors>RWGU</colors>
+                <coloridentity>RWGU</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642717012953109.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Rayr of Shangri La</name>
+            <text>If a player would tap a permanent for mana it adds an additional mana that permanent could produce.
+            If a player would draw one or more cards, that player draws that many plus one instead.
+            
+            Players cannot tap permanents unless it is for mana abilities or attacking, also spells and abilities cannot prevent players from drawing cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Human Druid Wizard</type>
+                <maintype>Creature</maintype>
+                <manacost>RWGU</manacost>
+                <cmc>4</cmc>
+                <colors>RWGU</colors>
+                <coloridentity>RWGU</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2022/1/20/1642717012953109.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ashra&apos;Zul, the Peacful</name>
+            <text>If a player would tap a permanent for mana it adds an additional mana that permanent could produce.
+            If a player would draw one or more cards, that player draws that many plus one instead.
+            
+            Players cannot tap permanents unless it is for mana abilities or attacking, also spells and abilities cannot prevent players from drawing cards.</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elder Dragon Monk</type>
+                <maintype>Creature</maintype>
+                <manacost>3RWB</manacost>
+                <cmc>6</cmc>
+                <colors>RWB</colors>
+                <coloridentity>RWB</coloridentity>
+                <pt>1/1</pt>
+            </prop>
+            <related>Ashra&apos;Zul, The Fist of Keir</related>
+            <set rarity="common" picurl="https://mtgcardsmith.com/view/complete/full/2021/12/10/1639152779086215.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ashra&apos;Zul, The Fist of Keir</name>
+            <token>1</token>
+            <text>Flying, Trample, Lifelink.
+            Flurry of blows — Whenever you cast your 2nd spell each turn, put two +1/+1 counters on Ashra&apos;Zul. Way of the Sun Soul 
+            — Whenever 1 or more counters is put on Ashra&apos;Zul, she deals damage equal to her power to target creature or planeswalker, execs damage is dealt to it&apos;s controller.
+            
+            Change Shape — {w}{b}{r}: Transform Ashra&apos;Zul. (Ashra&apos;Zul, the Peaceful.)</text>
+            <prop>
+                <layout>normal</layout>
+                <side>front</side>
+                <type>Legendary Creature - Elder Dragon Monk</type>
+                <maintype>Creature</maintype>
+                <manacost>3RWB</manacost>
+                <cmc>6</cmc>
+                <colors>RWB</colors>
+                <coloridentity>RWB</coloridentity>
+                <pt>4/4</pt>
+            </prop>
+            <related>Ashra&apos;Zul, the Peacful</related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2021/12/10/1662060974464955.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>RCL Snake</name>
+            <text>Deathtouch</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>w</colors>
+                <pt>1/1</pt>
+            </prop>
+            <reverse-related>Orphil, Scale Summoner</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/8/24/1661376834213966.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+         <card>
+            <name>Gnoll Zombie</name>
+            <text>Deathtouch</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>w</colors>
+                <pt>2/2</pt>
+            </prop>
+            <reverse-related>Gnarth Foul-Tongue</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/8/24/1661378264403989.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>RCL Spirit Token</name>
+            <text>Flying</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>w</colors>
+                <pt>1/1</pt>
+            </prop>
+            <reverse-related>Crypt Keeper Lenvic</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/8/24/1661370384481895.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>RCL Bird Token</name>
+            <text>Flying</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>w</colors>
+                <pt>1/1</pt>
+            </prop>
+            <reverse-related>Dorren of the Old Ways</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/8/24/1661359106137028.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>RCL Skeleton Token</name>
+            <text>Flying</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>w</colors>
+                <pt>1/1</pt>
+            </prop>
+            <reverse-related>Hamell, Feasted Bounty</reverse-related>
+            <reverse-related>Cravin, Necromancer P.H.D</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/8/24/1661357671103092.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>RCL Food Token</name>
+            <text>{2}, {T}, Sacrifice this artifact: You gain 3 life.</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>X</colors>
+            </prop>
+            <reverse-related>Hamell, Feasted Bounty</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/8/24/1661374861481991.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ben Emblem</name>
+            <text>At the end of each opponent&apos;s turn take an extra turn</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>X</colors>
+            </prop>
+            <reverse-related>Virsteppado, Time Lost</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/9/1/1662057832050092.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Belial Emblem</name>
+            <text>At the beginning of your upkeep discard a card, if you do draw a card. Your max hand size is reduced by one.</text>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>X</colors>
+            </prop>
+            <reverse-related>Belial Unchained</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/9/1/1662058118839645.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Honey</name>
+            <token>1</token>
+            <prop>
+                <type>Token</type>
+                <colors>X</colors>
+            </prop>
+            <reverse-related>Rangor of the Claw</reverse-related>
+            <set picurl="https://mtgcardsmith.com/view/complete/full/2022/1/19/1642649528603290.png">RCL</set>
+            <tablerow>2</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>
